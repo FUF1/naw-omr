@@ -1,0 +1,18 @@
+!!!   /Users/florianfurrer/Documents/GitHub/naw-omr/Testhefte_NAW_Testsets/Z800_UZ3417_2-marked.pdf was already processed. (signed with '-marked')
+#########################################
+√   Z800_UZ3417_2 successful
+#########################################
+√   Z511_BG1951_1 successful
+#########################################
+!!!   /Users/florianfurrer/Documents/GitHub/naw-omr/Testhefte_NAW_Testsets/Subset/Z511_BG1951_1-marked.pdf was already processed. (signed with '-marked')
+#########################################
+√   Z206_AN1631_1 successful
+#########################################
+!!!   /Users/florianfurrer/Documents/GitHub/naw-omr/Testhefte_NAW_Testsets/Subset/Subset 3/Z206_AN1631_1-marked.pdf was already processed. (signed with '-marked')
+#########################################
+!!!   /Users/florianfurrer/Documents/GitHub/naw-omr/Testhefte_NAW_Testsets/Subset/Subset 2/Z202_BA2928_2-marked.pdf was already processed. (signed with '-marked')
+#########################################
+√   Z202_BA2928_2 successful
+#########################################
+INFO:   Run completed with all files from chosen directory.
+#########################################
