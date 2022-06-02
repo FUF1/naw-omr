@@ -1,5 +1,8 @@
 #FLOMR v1.9 - 2022-01
 
+######### FIRST ACTIVATE VIRTUAL ENV #########
+  #source myvenv/bin/activate
+
 ######### FIRST MANUALY INSTALL THESE IN TERMINAL #########
   #pip3 install PyMuPDF
   #pip3 install boxdetect
@@ -29,10 +32,10 @@ from datetime import datetime
 import csv
 #following used for deskewing
 import numpy as np
-from skimage import io
-from skimage.transform import rotate
-from skimage.color import rgb2gray
-from deskew import determine_skew
+from skimage import io #for deskewing
+from skimage.transform import rotate #for deskewing
+from skimage.color import rgb2gray #for deskewing
+from deskew import determine_skew #for deskewing
 #from matplotlib import pyplot as plt #bereits vorhanden
 
 # To get better resolution
@@ -222,6 +225,12 @@ def main():
           pix = page.get_pixmap(matrix=mat)  # render page to an image
           img_path = "{}/{}_page-{}.png".format(sus_folder, shortname, page.number+1)
           pix.save(img_path)  # store image as a PNG
+          image_ds = io.imread(img_path)
+          #grayscale = rgb2gray(image)
+          #angle = determine_skew(grayscale)
+          angle = determine_skew(image_ds)
+          rotated = rotate(image_ds, angle, resize=False) * 255
+          io.imsave(img_path, rotated.astype(np.uint8))
 
           def detection():
             # Boxdetect
