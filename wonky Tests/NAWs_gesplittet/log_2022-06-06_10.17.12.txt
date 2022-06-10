@@ -1,0 +1,68 @@
+!!!   /Users/florianfurrer/Documents/GitHub/naw-omr/wonky Tests/NAWs_gesplittet/Z303_DE2728_1-marked.pdf was already processed. (signed with '-marked')
+#########################################
+√   Z303_SO1221_1 successful
+#########################################
+!!!   /Users/florianfurrer/Documents/GitHub/naw-omr/wonky Tests/NAWs_gesplittet/Z303_BA0610_1-marked.pdf was already processed. (signed with '-marked')
+#########################################
+!!!   /Users/florianfurrer/Documents/GitHub/naw-omr/wonky Tests/NAWs_gesplittet/Z303_DA2406_1-marked.pdf was already processed. (signed with '-marked')
+#########################################
+√   Z303_SE2008_1 successful
+#########################################
+√   Z303_FA2405_1 successful
+#########################################
+√   Z303_DA2406_1 successful
+#########################################
+!!!   /Users/florianfurrer/Documents/GitHub/naw-omr/wonky Tests/NAWs_gesplittet/Z303_SE2008_1-marked.pdf was already processed. (signed with '-marked')
+#########################################
+!!!   /Users/florianfurrer/Documents/GitHub/naw-omr/wonky Tests/NAWs_gesplittet/Z303_SI1816_1-marked.pdf was already processed. (signed with '-marked')
+#########################################
+√   Z303_DE2728_1 successful
+#########################################
+√   Z303_CL0616_1 successful
+#########################################
+√   Z303_SH0922_1 successful
+#########################################
+!!!   /Users/florianfurrer/Documents/GitHub/naw-omr/wonky Tests/NAWs_gesplittet/Z303_RA2810_1-marked.pdf was already processed. (signed with '-marked')
+#########################################
+√   Z303_RA2810_1 successful
+#########################################
+!!!   /Users/florianfurrer/Documents/GitHub/naw-omr/wonky Tests/NAWs_gesplittet/Z303_TU0729_1-marked.pdf was already processed. (signed with '-marked')
+#########################################
+√   Z303_AR2130_1 successful
+#########################################
+!!!   /Users/florianfurrer/Documents/GitHub/naw-omr/wonky Tests/NAWs_gesplittet/Z303_FA2405_1-marked.pdf was already processed. (signed with '-marked')
+#########################################
+!!!   /Users/florianfurrer/Documents/GitHub/naw-omr/wonky Tests/NAWs_gesplittet/Z303_AR2130_1-marked.pdf was already processed. (signed with '-marked')
+#########################################
+√   Z303_SI1816_1 successful
+#########################################
+√   Z303_NA1217_1 successful
+#########################################
+!!!   /Users/florianfurrer/Documents/GitHub/naw-omr/wonky Tests/NAWs_gesplittet/Z303_CL0616_1-marked.pdf was already processed. (signed with '-marked')
+#########################################
+√   Z303_BA0610_1 successful
+#########################################
+!!!   /Users/florianfurrer/Documents/GitHub/naw-omr/wonky Tests/NAWs_gesplittet/Z303_AJ2020_1-marked.pdf was already processed. (signed with '-marked')
+#########################################
+!!!   /Users/florianfurrer/Documents/GitHub/naw-omr/wonky Tests/NAWs_gesplittet/Z303_BE0214_1-marked.pdf was already processed. (signed with '-marked')
+#########################################
+√   Z303_VA2618_1 successful
+#########################################
+√   Z303_TU0729_1 successful
+#########################################
+√   Z303_AJ2020_1 successful
+#########################################
+!!!   /Users/florianfurrer/Documents/GitHub/naw-omr/wonky Tests/NAWs_gesplittet/Z303_NA1217_1-marked.pdf was already processed. (signed with '-marked')
+#########################################
+!!!   ERROR: Falschen Seitenanzahl bei Z303_FR1330_1. 18 statt 19 Seiten.
+#########################################
+!!!   /Users/florianfurrer/Documents/GitHub/naw-omr/wonky Tests/NAWs_gesplittet/Z303_SH0922_1-marked.pdf was already processed. (signed with '-marked')
+#########################################
+!!!   /Users/florianfurrer/Documents/GitHub/naw-omr/wonky Tests/NAWs_gesplittet/Z303_SO1221_1-marked.pdf was already processed. (signed with '-marked')
+#########################################
+!!!   /Users/florianfurrer/Documents/GitHub/naw-omr/wonky Tests/NAWs_gesplittet/Z303_VA2618_1-marked.pdf was already processed. (signed with '-marked')
+#########################################
+√   Z303_BE0214_1 successful
+#########################################
+INFO:   Run completed with all files from chosen directory.
+#########################################
